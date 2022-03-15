@@ -10,3 +10,13 @@ body {
 .App {
   text-align: center;
 }
+
+.Hide {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.List {
+  list-style: none;
+  text-align: center;
+}
